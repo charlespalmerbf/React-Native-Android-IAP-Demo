@@ -1,0 +1,162 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.charliepalmer.rniapdemo"
+4    android:versionCode="3"
+5    android:versionName="1.0.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="com.android.vending.BILLING" />
+13-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:5:5-67
+13-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:5:22-64
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->[com.facebook.flipper:flipper:0.99.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\2f5725507f1929c6ddf8255f0bef77bd\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:5-76
+14-->[com.facebook.flipper:flipper:0.99.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\2f5725507f1929c6ddf8255f0bef77bd\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:22-73
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[:expo-updates] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-updates\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-79
+15-->[:expo-updates] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-updates\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-81
+16-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-80
+17-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-77
+18
+19    <queries>
+19-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-20:15
+20
+21        <!-- Query open documents -->
+22        <intent>
+22-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:9-19:18
+23            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+23-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-79
+23-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:21-76
+24        </intent>
+25    </queries>
+26
+27    <application
+27-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:7:5-30:19
+28        android:name="com.charliepalmer.rniapdemo.MainApplication"
+28-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:8:7-38
+29        android:allowBackup="false"
+29-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:12:7-34
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\5646db46e2cfb43e7b3d42f3054c498c\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher"
+32-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:10:7-41
+33        android:label="@string/app_name"
+33-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:9:7-39
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:11:7-52
+35        android:theme="@style/AppTheme"
+35-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:13:7-38
+36        android:usesCleartextTraffic="true" >
+36-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\debug\AndroidManifest.xml:8:9-44
+37        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+37-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\debug\AndroidManifest.xml:11:9-86
+37-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\debug\AndroidManifest.xml:11:19-83
+38
+39        <meta-data
+39-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:14:7-128
+40            android:name="expo.modules.updates.EXPO_UPDATE_URL"
+40-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:14:18-69
+41            android:value="https://exp.host/@charlie.palmer/my-app" />
+41-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:14:70-125
+42        <meta-data
+42-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:15:7-96
+43            android:name="expo.modules.updates.EXPO_SDK_VERSION"
+43-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:15:18-70
+44            android:value="38.0.0" />
+44-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:15:71-93
+45        <meta-data
+45-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:16:7-101
+46            android:name="expo.modules.updates.EXPO_RELEASE_CHANNEL"
+46-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:16:18-74
+47            android:value="default" />
+47-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:16:75-98
+48
+49        <activity
+49-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:18:3-29:18
+50            android:name="com.charliepalmer.rniapdemo.MainActivity"
+50-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:19:5-33
+51            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+51-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:22:9-86
+52            android:exported="true"
+52-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:21:9-32
+53            android:label="@string/app_name"
+53-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:20:9-41
+54            android:launchMode="singleTask"
+54-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:23:9-40
+55            android:windowSoftInputMode="adjustResize" >
+55-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:24:9-51
+56            <intent-filter>
+56-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:25:9-28:25
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:26:13-65
+57-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:26:21-62
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:27:13-73
+59-->C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:27:23-70
+60            </intent-filter>
+61        </activity>
+62
+63        <meta-data
+63-->[:unimodules-react-native-adapter] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\react-native-adapter\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:91
+64            android:name="org.unimodules.core.AppLoader#react-native-headless"
+64-->[:unimodules-react-native-adapter] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\react-native-adapter\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-79
+65            android:value="org.unimodules.adapters.react.apploader.RNHeadlessAppLoader" />
+65-->[:unimodules-react-native-adapter] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\react-native-adapter\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-88
+66
+67        <provider
+67-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:9-32:20
+68            android:name="expo.modules.filesystem.FileSystemFileProvider"
+68-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-74
+69            android:authorities="com.charliepalmer.rniapdemo.FileSystemFileProvider"
+69-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-74
+70            android:exported="false"
+70-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-37
+71            android:grantUriPermissions="true" >
+71-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-47
+72            <meta-data
+72-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-31:70
+73                android:name="android.support.FILE_PROVIDER_PATHS"
+73-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-67
+74                android:resource="@xml/file_system_provider_paths" />
+74-->[:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:17-67
+75        </provider>
+76
+77        <service
+77-->[androidx.room:room-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bc9ca51157ef1ec7d7087e0222c069a2\transformed\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+78            android:name="androidx.room.MultiInstanceInvalidationService"
+78-->[androidx.room:room-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bc9ca51157ef1ec7d7087e0222c069a2\transformed\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
+79            android:exported="false" />
+79-->[androidx.room:room-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bc9ca51157ef1ec7d7087e0222c069a2\transformed\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+80
+81        <meta-data
+81-->[com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:13:9-15:37
+82            android:name="com.google.android.play.billingclient.version"
+82-->[com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:14:13-73
+83            android:value="3.0.0" />
+83-->[com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:15:13-34
+84
+85        <activity
+85-->[com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:17:9-20:75
+86            android:name="com.android.billingclient.api.ProxyBillingActivity"
+86-->[com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:18:13-78
+87            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+87-->[com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:19:13-96
+88            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+88-->[com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:20:13-72
+89    </application>
+90
+91</manifest>

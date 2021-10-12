@@ -1,0 +1,11 @@
+com/rniaptest/MainApplication.java
+ com.charliepalmer.rniapdemo.MainApplication
+ com.charliepalmer.rniapdemo.MainApplication$1
+com/rniaptest/generated/BasePackageList.java
+ com.charliepalmer.rniapdemo.generated.BasePackageList
+com/rniaptest/MainActivity.java
+ com.charliepalmer.rniapdemo.MainActivity
+com/charliepalmer/rniapdemo/BuildConfig.java
+ com.charliepalmer.rniapdemo.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

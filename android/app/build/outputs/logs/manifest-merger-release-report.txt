@@ -1,0 +1,398 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:1:1-31:12
+MERGED from [:unimodules-react-native-adapter] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\react-native-adapter\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:expo-updates] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-updates\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-iap] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\react-native-iap\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.66.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\548e983e2fa4cfa186578c41faedaeae\transformed\jetified-react-native-0.66.0\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-35:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\67dc7ae83599c50a17d333e48b750491\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\2d7fccd1f19787d63b03ada961c1fccf\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\9341f36f0ce470d4b55127e33c2ce075\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:expo-constants] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-constants\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-image-loader] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-image-loader\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-modules-core] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-structured-headers] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-structured-headers\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:unimodules-app-loader] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\unimodules-app-loader\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:unimodules-task-manager-interface] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\unimodules-task-manager-interface\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:unimodules-core] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-updates-interface] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-updates-interface\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\charlie.palmer\.gradle\caches\transforms-3\7873a5158addb5bf75ec8bc5226b9f2a\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\2e3be5b59ff1001e620058abe4b7c8c9\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\6d576f05ff2510ef857a4a4bda541865\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\da58426860718cf7cd9b6432bdc1e74c\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bfcd70de602582dafbe585f453d01685\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\29ad267efc1aa56118152dd96a23ba9e\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\cfe2fe1266f7b508fab117b793747328\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\78fb03b70f57e7a893ea3d79f69454fd\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\9429e5f71025a78d24a47489563f8c07\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\5526495f296c8eeaa211326006983f13\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\9c9b14e62e6566be253296541a1de4cb\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\a48e403d00b0b0ddc92ec5c061189973\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\74521a4c0edb78828dd4bc041448ec5d\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\be9076cd4fc3ff6ad98aa6fb277b3148\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\2bd3d214b93dcf428cfd42cc8814b2ed\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\78eba43129e0d31bec1d131435c69dcf\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\d6d259317e4a56b55ba587f613fb48a2\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\4c346baed8905fc786ccf697aebc99f4\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.browser:browser:1.4.0-beta01] C:\Users\charlie.palmer\.gradle\caches\transforms-3\37e25050dce5bc386953d83f182b2a09\transformed\browser-1.4.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\45b4b69955f9a74ecf227cbdbe6e2715\transformed\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\01d766394627c9af676fea2d496137e9\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\57e3d46cd409853c916c88a2c3ae94fd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\db0f9dfc2cb9e58d20874cad38a46146\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\945f679d5066ec5cea4c418de5c0d6c7\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\d0c159f2eff86f9dd9484771b447df49\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\1d9d7fcf5c9718c59829330deb3bdccb\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bc9ca51157ef1ec7d7087e0222c069a2\transformed\room-runtime-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\86fd6928850ae509fbe2c21ac2bd3ae8\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\6fa7b39b5df705c5310dc54c9428ddb2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\60d60c30d7e19309c125baad97767572\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\09064782b8f9c0d066bcd2a3c8b04255\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\be29cb4bc247544557fd2056ab72725c\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\b133b9404a8c5da5d70c49b2ea9a8235\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\52776be0cd260004f7c3543526e82dde\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\e78fd681fe13beced154580660d7b18a\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\e66c2c7de81d8a94347e1fb5ab7df0ea\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bd931bf16554ef3a5f9f30ddc05589c6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\93f05197e65839b6a2b4ec2b580fa39b\transformed\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\0be91775d24cf865decfe7ed4d5eda66\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\1a688c35d074a9f0ff5b4cdc7f4da74f\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\4dda5a39fb935243b64b464469b09459\transformed\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\52571f97fa6c48622e09021afd8f199b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\924aaf4fe951573165fc3f7358be4779\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\3037b61b850682578454cf0fd4f360d7\transformed\core-runtime-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\8b99f44f0bffbc60250191bc76f427b6\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\43774a1f0f00442e6ac94bdb87895112\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\207c511f44f601b53084c2139b40be16\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\b1dbf150c803dbbe2473340e72042a7f\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\6b855ee38784b14b3dafd9751524a62d\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\6648bd14adbde7c30b9a5080863e29b0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\ef1333f51a0619e2cf1dea9c6bced6ac\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\80cae4052e041bdf30fb0fa272e54409\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:2:3-40
+		INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:1:1-31:12
+		INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:1:1-31:12
+		INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-67
+MERGED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#com.android.vending.BILLING
+ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:10:5-67
+MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:7:5-30:19
+MERGED from [:unimodules-react-native-adapter] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\react-native-adapter\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-13:19
+MERGED from [:unimodules-react-native-adapter] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\react-native-adapter\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-13:19
+MERGED from [com.facebook.react:react-native:0.66.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\548e983e2fa4cfa186578c41faedaeae\transformed\jetified-react-native-0.66.0\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.66.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\548e983e2fa4cfa186578c41faedaeae\transformed\jetified-react-native-0.66.0\AndroidManifest.xml:9:5-20
+MERGED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:5-33:19
+MERGED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:5-33:19
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\4c346baed8905fc786ccf697aebc99f4\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\4c346baed8905fc786ccf697aebc99f4\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\45b4b69955f9a74ecf227cbdbe6e2715\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\45b4b69955f9a74ecf227cbdbe6e2715\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\1d9d7fcf5c9718c59829330deb3bdccb\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\1d9d7fcf5c9718c59829330deb3bdccb\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bc9ca51157ef1ec7d7087e0222c069a2\transformed\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bc9ca51157ef1ec7d7087e0222c069a2\transformed\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\93f05197e65839b6a2b4ec2b580fa39b\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\93f05197e65839b6a2b4ec2b580fa39b\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\8b99f44f0bffbc60250191bc76f427b6\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\8b99f44f0bffbc60250191bc76f427b6\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:12:5-21:19
+MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:12:5-21:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\93f05197e65839b6a2b4ec2b580fa39b\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:8:7-38
+meta-data#expo.modules.updates.EXPO_UPDATE_URL
+ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:14:7-128
+	android:value
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:14:70-125
+	android:name
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:14:18-69
+meta-data#expo.modules.updates.EXPO_SDK_VERSION
+ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:15:7-96
+	android:value
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:15:71-93
+	android:name
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:15:18-70
+meta-data#expo.modules.updates.EXPO_RELEASE_CHANNEL
+ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:16:7-101
+	android:value
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:16:75-98
+	android:name
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:16:18-74
+activity#com.charliepalmer.rniapdemo.MainActivity
+ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:18:3-29:18
+	android:label
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:20:9-41
+	android:launchMode
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:23:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:24:9-51
+	android:exported
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:21:9-32
+	android:configChanges
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:22:9-86
+	android:name
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:19:5-33
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml:27:23-70
+uses-sdk
+INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+MERGED from [:unimodules-react-native-adapter] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\react-native-adapter\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:unimodules-react-native-adapter] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\react-native-adapter\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-updates] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-updates\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-updates] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-updates\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-iap] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\react-native-iap\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-iap] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\react-native-iap\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.66.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\548e983e2fa4cfa186578c41faedaeae\transformed\jetified-react-native-0.66.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.66.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\548e983e2fa4cfa186578c41faedaeae\transformed\jetified-react-native-0.66.0\AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\67dc7ae83599c50a17d333e48b750491\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\67dc7ae83599c50a17d333e48b750491\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\2d7fccd1f19787d63b03ada961c1fccf\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\2d7fccd1f19787d63b03ada961c1fccf\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\9341f36f0ce470d4b55127e33c2ce075\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\9341f36f0ce470d4b55127e33c2ce075\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:expo-constants] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-constants\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-constants] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-constants\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-image-loader] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-image-loader\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-image-loader] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-image-loader\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-modules-core] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-modules-core] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-structured-headers] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-structured-headers\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-structured-headers] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-structured-headers\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:unimodules-app-loader] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\unimodules-app-loader\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:unimodules-app-loader] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\unimodules-app-loader\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\unimodules-task-manager-interface\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\unimodules-task-manager-interface\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:unimodules-core] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:unimodules-core] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\core\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-updates-interface] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-updates-interface\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:expo-updates-interface] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-updates-interface\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\charlie.palmer\.gradle\caches\transforms-3\7873a5158addb5bf75ec8bc5226b9f2a\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\charlie.palmer\.gradle\caches\transforms-3\7873a5158addb5bf75ec8bc5226b9f2a\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\2e3be5b59ff1001e620058abe4b7c8c9\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\2e3be5b59ff1001e620058abe4b7c8c9\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\6d576f05ff2510ef857a4a4bda541865\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\6d576f05ff2510ef857a4a4bda541865\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\da58426860718cf7cd9b6432bdc1e74c\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\da58426860718cf7cd9b6432bdc1e74c\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bfcd70de602582dafbe585f453d01685\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bfcd70de602582dafbe585f453d01685\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\29ad267efc1aa56118152dd96a23ba9e\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\29ad267efc1aa56118152dd96a23ba9e\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\cfe2fe1266f7b508fab117b793747328\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\cfe2fe1266f7b508fab117b793747328\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\78fb03b70f57e7a893ea3d79f69454fd\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\78fb03b70f57e7a893ea3d79f69454fd\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\9429e5f71025a78d24a47489563f8c07\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\9429e5f71025a78d24a47489563f8c07\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\5526495f296c8eeaa211326006983f13\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\5526495f296c8eeaa211326006983f13\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\9c9b14e62e6566be253296541a1de4cb\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\9c9b14e62e6566be253296541a1de4cb\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\a48e403d00b0b0ddc92ec5c061189973\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\a48e403d00b0b0ddc92ec5c061189973\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\74521a4c0edb78828dd4bc041448ec5d\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\74521a4c0edb78828dd4bc041448ec5d\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\be9076cd4fc3ff6ad98aa6fb277b3148\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\be9076cd4fc3ff6ad98aa6fb277b3148\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\2bd3d214b93dcf428cfd42cc8814b2ed\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\2bd3d214b93dcf428cfd42cc8814b2ed\transformed\jetified-middleware-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\78eba43129e0d31bec1d131435c69dcf\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\78eba43129e0d31bec1d131435c69dcf\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\d6d259317e4a56b55ba587f613fb48a2\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\d6d259317e4a56b55ba587f613fb48a2\transformed\jetified-soloader-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\4c346baed8905fc786ccf697aebc99f4\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\4c346baed8905fc786ccf697aebc99f4\transformed\jetified-soloader-0.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.browser:browser:1.4.0-beta01] C:\Users\charlie.palmer\.gradle\caches\transforms-3\37e25050dce5bc386953d83f182b2a09\transformed\browser-1.4.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0-beta01] C:\Users\charlie.palmer\.gradle\caches\transforms-3\37e25050dce5bc386953d83f182b2a09\transformed\browser-1.4.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\45b4b69955f9a74ecf227cbdbe6e2715\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\45b4b69955f9a74ecf227cbdbe6e2715\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\01d766394627c9af676fea2d496137e9\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\01d766394627c9af676fea2d496137e9\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\57e3d46cd409853c916c88a2c3ae94fd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\57e3d46cd409853c916c88a2c3ae94fd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\db0f9dfc2cb9e58d20874cad38a46146\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\db0f9dfc2cb9e58d20874cad38a46146\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\945f679d5066ec5cea4c418de5c0d6c7\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\945f679d5066ec5cea4c418de5c0d6c7\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\d0c159f2eff86f9dd9484771b447df49\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\d0c159f2eff86f9dd9484771b447df49\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\1d9d7fcf5c9718c59829330deb3bdccb\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\1d9d7fcf5c9718c59829330deb3bdccb\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bc9ca51157ef1ec7d7087e0222c069a2\transformed\room-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bc9ca51157ef1ec7d7087e0222c069a2\transformed\room-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\86fd6928850ae509fbe2c21ac2bd3ae8\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\86fd6928850ae509fbe2c21ac2bd3ae8\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\6fa7b39b5df705c5310dc54c9428ddb2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\6fa7b39b5df705c5310dc54c9428ddb2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\60d60c30d7e19309c125baad97767572\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\60d60c30d7e19309c125baad97767572\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\09064782b8f9c0d066bcd2a3c8b04255\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\09064782b8f9c0d066bcd2a3c8b04255\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\be29cb4bc247544557fd2056ab72725c\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\be29cb4bc247544557fd2056ab72725c\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\b133b9404a8c5da5d70c49b2ea9a8235\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\b133b9404a8c5da5d70c49b2ea9a8235\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\52776be0cd260004f7c3543526e82dde\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\52776be0cd260004f7c3543526e82dde\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\e78fd681fe13beced154580660d7b18a\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\e78fd681fe13beced154580660d7b18a\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\e66c2c7de81d8a94347e1fb5ab7df0ea\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\e66c2c7de81d8a94347e1fb5ab7df0ea\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bd931bf16554ef3a5f9f30ddc05589c6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bd931bf16554ef3a5f9f30ddc05589c6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\93f05197e65839b6a2b4ec2b580fa39b\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\93f05197e65839b6a2b4ec2b580fa39b\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\0be91775d24cf865decfe7ed4d5eda66\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\0be91775d24cf865decfe7ed4d5eda66\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\1a688c35d074a9f0ff5b4cdc7f4da74f\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\1a688c35d074a9f0ff5b4cdc7f4da74f\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\4dda5a39fb935243b64b464469b09459\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\4dda5a39fb935243b64b464469b09459\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\52571f97fa6c48622e09021afd8f199b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\52571f97fa6c48622e09021afd8f199b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\924aaf4fe951573165fc3f7358be4779\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\924aaf4fe951573165fc3f7358be4779\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\3037b61b850682578454cf0fd4f360d7\transformed\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\charlie.palmer\.gradle\caches\transforms-3\3037b61b850682578454cf0fd4f360d7\transformed\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\8b99f44f0bffbc60250191bc76f427b6\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\8b99f44f0bffbc60250191bc76f427b6\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\43774a1f0f00442e6ac94bdb87895112\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\43774a1f0f00442e6ac94bdb87895112\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\207c511f44f601b53084c2139b40be16\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\207c511f44f601b53084c2139b40be16\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\b1dbf150c803dbbe2473340e72042a7f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\b1dbf150c803dbbe2473340e72042a7f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\6b855ee38784b14b3dafd9751524a62d\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\6b855ee38784b14b3dafd9751524a62d\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\6648bd14adbde7c30b9a5080863e29b0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\6648bd14adbde7c30b9a5080863e29b0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\ef1333f51a0619e2cf1dea9c6bced6ac\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\ef1333f51a0619e2cf1dea9c6bced6ac\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\80cae4052e041bdf30fb0fa272e54409\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\80cae4052e041bdf30fb0fa272e54409\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\charlie.palmer\IAP Android\rniaptest\android\app\src\main\AndroidManifest.xml
+meta-data#org.unimodules.core.AppLoader#react-native-headless
+ADDED from [:unimodules-react-native-adapter] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\react-native-adapter\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-12:91
+	android:value
+		ADDED from [:unimodules-react-native-adapter] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\react-native-adapter\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-88
+	android:name
+		ADDED from [:unimodules-react-native-adapter] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\@unimodules\react-native-adapter\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:expo-updates] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-updates\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:expo-updates] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-updates\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:22-77
+queries
+ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-20:15
+intent#action:name:android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-19:18
+action#android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-79
+	android:name
+		ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:21-76
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:9-32:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-47
+	android:authorities
+		ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:13-74
+	android:exported
+		ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-37
+	tools:replace
+		ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-31:70
+	android:resource
+		ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:17-67
+	android:name
+		ADDED from [:expo-file-system] C:\Users\charlie.palmer\IAP Android\rniaptest\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:17-67
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bc9ca51157ef1ec7d7087e0222c069a2\transformed\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bc9ca51157ef1ec7d7087e0222c069a2\transformed\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\bc9ca51157ef1ec7d7087e0222c069a2\transformed\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:17:9-20:75
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:20:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\charlie.palmer\.gradle\caches\transforms-3\42d49710880fefd317e7214f3765e01b\transformed\jetified-billing-3.0.0\AndroidManifest.xml:18:13-78

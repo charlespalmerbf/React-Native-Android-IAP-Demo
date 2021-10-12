@@ -1,0 +1,9 @@
+{
+  "name": "rniaptest",
+  "displayName": "rniaptest",
+  "expo": {
+    "name": "MyApp",
+    "slug": "my-app",
+    "sdkVersion": "38.0.0"
+  }
+}
